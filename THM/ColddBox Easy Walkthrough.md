@@ -28,7 +28,7 @@ wpscan --url <TARGET_IP> --usernames c0ldd --passwords /usr/share/dirb/wordlists
 ```
 This reveals the login credentials:
 - **Username**: `c0ldd`
-- **Password**: `9876543210`
+- **Password**: `*********`
 ## 5. Logging into WordPress Admin
 Using the discovered credentials, log in to the WordPress admin panel at:
 ```
